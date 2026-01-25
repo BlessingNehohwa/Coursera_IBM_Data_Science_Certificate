@@ -6,4 +6,4 @@ I embarked on a real world data science journey with this capstone course and de
 
 
 
-[<b>Falcon 9 Space X Prediction</b>](https://github.com/BlessingNehohwa/Coursera-IBM-Data-Science-Certificate/blob/main/IBM%20data%20Science%20Capstone/Machine%20Learning%20Prediction.ipynb)
+[<b>Falcon 9 Space X Prediction</b>](https://github.com/BlessingNehohwa/Coursera-IBM-Data-Science-Certificate/blob/main/IBM%20data%20Sciece%20Capstone/Machine%20Learning%20Prediction.ipynb)
